@@ -12,13 +12,10 @@ As a data analyst, I worked on a comprehensive sales analysis project for a chai
 **SQL (MySQL)** | **Power BI** | **Power Query Editor** | **DAX**
 
 # 🧹 SQL Work (with CTE)
-I used Structured Query Language (SQL) extensively to:\
-Convert text dates and times to appropriate formats\
-Calculate monthly totals and perform comparisons\
-Create reusable logic with CTEs (Common Table Expressions) for:
-- Month-on-month change in sales
-- Month-on-month change in orders
-- Monthly comparison of quantity sold
+I used Structured Query Language (SQL) extensively to:
+- Convert text dates and times to appropriate formats
+- Calculate monthly totals and perform comparisons
+- Create reusable logic with CTEs (Common Table Expressions)
 
 # 💡 Skills Demonstrated
 SQL cleaning, transformation, and CTE-based analytics\
