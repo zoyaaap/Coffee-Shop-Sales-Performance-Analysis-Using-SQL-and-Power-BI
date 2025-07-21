@@ -15,9 +15,9 @@ As a data analyst, I worked on a comprehensive sales analysis project for a chai
 I used Structured Query Language (SQL) extensively to:\
 Convert text dates and times to appropriate formats\
 Calculate monthly totals and perform comparisons\
-Create reusable logic with CTEs (Common Table Expressions) for:\
-- Month-on-month change in sales\
-- Month-on-month change in orders\
+Create reusable logic with CTEs (Common Table Expressions) for:
+- Month-on-month change in sales
+- Month-on-month change in orders
 - Monthly comparison of quantity sold
 
 # 💡 Skills Demonstrated
